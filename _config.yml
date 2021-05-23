@@ -77,3 +77,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://rumbummeln-a5961.netlify.app'
